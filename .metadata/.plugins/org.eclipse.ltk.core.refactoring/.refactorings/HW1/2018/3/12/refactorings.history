@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring accessors="true" comment="Delete element from project &apos;HW1&apos;&#x0D;&#x0A;- Original project: &apos;HW1&apos;&#x0D;&#x0A;- Original element: &apos;One.java&apos;" description="Delete element" element1="/src&lt;{One.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1521533636544" subPackages="false" version="1.0"/>&#x0A;<refactoring comment="Rename resource &apos;HW1/flowchart&apos; to &apos;flowchar&apos;" description="Rename resource &apos;flowchart&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="flowchart" name="flowchar" stamp="1521535737298" updateReferences="true"/>
+</session>

@@ -1,0 +1,25 @@
+
+public class Point {
+	
+	public double x;
+	public double y;
+
+	
+	public Point move(Point p) {
+		
+		double a;
+		double b;
+
+		a = this.x + p.x;
+		b = this.y + p.y;
+		
+		Point pnt = new Point();
+		
+		pnt.x = a;
+		pnt.y = b;
+		
+		return pnt;
+		
+	}
+
+}
