@@ -9,4 +9,5 @@ public class Dog extends Animal {
 		super(a); // 명시적으로 적어야 정수형 생성자를 부름
 		System.out.println("Dog 정수형 생성자");
 	}
+	
 }
